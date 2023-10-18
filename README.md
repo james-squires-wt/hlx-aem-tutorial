@@ -1,8 +1,8 @@
-# Your Project's Title...
-Your project's description...
+# AEM Helix Tutorial
+Implementation of the AEM Helix tutorial: https://www.hlx.live/developer/tutorial
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
+- Preview: https://main--hlx-aem-tutorial--james-squires-wt.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
 ## Installation
